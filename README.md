@@ -9,3 +9,7 @@
 5. If, significant differece is detected between these two frames, we can conclude that some motion has occoured. 
 6. An loop function will thus produce an new C image every time there is a frame change in the video. 
 
+
+----- TO RUN THE PROJECT ----- 
+1. Using a terminal: python detect_difference_in_frames.py
+2. Using pycharm : Right click, and select Run detect_difference_in_frames.py
